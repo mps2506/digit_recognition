@@ -1,0 +1,19 @@
+# Model AI
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Dataset
+dataset/
+
+# VSCode
+.vscode/
